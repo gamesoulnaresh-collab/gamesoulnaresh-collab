@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Naresh Sukumar
 
-<!--
-**gamesoulnaresh-collab/gamesoulnaresh-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Game Design | Gameplay Analysis & Research**
 
-Here are some ideas to get you started:
+I am a Game Technology graduate building my skills in **game design, gameplay analysis, and game research**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in understanding how games work, why gameplay systems succeed or fail, and how player experiences can be designed and improved.
+
+## 🎮 What I'm Learning
+
+- Game Design
+- Gameplay Mechanics
+- Level Design
+- Player Experience
+- Gameplay Analysis
+- Game Research
+- Game Development Workflows
+
+## 🔍 My Approach
+
+**Play → Analyse → Understand → Design → Build → Improve**
+
+I use games as a way to study mechanics, systems, player behaviour, and design decisions.
+
+## 📁 Portfolio
+
+My game design and gameplay analysis work can be found here:
+
+👉 [Game Design & Gameplay Analysis Portfolio](https://github.com/gamesoulnaresh-collab/game-design-portfolio)
+
+## 🎓 Background
+
+**C-Tech Diploma in Game Technology**
+
+Currently focused on developing practical skills and building a portfolio of game design and gameplay analysis work.
+
+---
+
+⭐ More projects and case studies will be added as I continue learning and building.
